@@ -7,6 +7,7 @@ int main(void)
 	int Num1;
 	int Num2;
 
+	cout << "---Insert Number---" << endl;
 	cin >> Num1;
 	cin >> Num2;
 
